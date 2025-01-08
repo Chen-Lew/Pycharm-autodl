@@ -42,3 +42,5 @@
 ![alt text](./Pycharm连接autodl图片集/image-11.png)
 得益于：![alt text](./Pycharm连接autodl图片集/image-12.png)
 
+# 5：本地与远程传输文件：FileZilla
+Pycharm绝配FileZilla
